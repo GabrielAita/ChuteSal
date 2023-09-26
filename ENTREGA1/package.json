@@ -1,0 +1,41 @@
+{
+  "name": "chutesal",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@radix-ui/react-slot": "^1.0.1",
+    "@types/react-slick": "^0.23.10",
+    "axios": "^1.1.3",
+    "clsx": "^1.2.1",
+    "formik": "^2.2.9",
+    "phosphor-react": "^1.4.1",
+    "react": "^18.2.0",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "^18.2.0",
+    "react-loading": "^2.0.3",
+    "react-modal": "^3.16.1",
+    "react-router-dom": "^6.4.2",
+    "react-slick": "^0.29.0",
+    "react-toastify": "^9.0.8",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-datepicker": "^4.4.2",
+    "@types/react-dom": "^18.0.6",
+    "@types/react-modal": "^3.13.1",
+    "@vitejs/plugin-react": "^2.1.0",
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.18",
+    "tailwind-scrollbar": "^2.0.1",
+    "tailwindcss": "^3.1.8",
+    "typescript": "^4.6.4",
+    "vite": "^3.1.0"
+  }
+}
