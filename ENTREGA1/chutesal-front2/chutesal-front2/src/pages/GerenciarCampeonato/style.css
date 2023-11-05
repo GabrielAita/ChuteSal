@@ -1,0 +1,7 @@
+.optionSelected span{
+  color: #006666;
+}
+
+.optionSelected svg path{
+  stroke: #006666;
+}
